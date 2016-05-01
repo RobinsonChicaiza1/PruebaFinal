@@ -34,7 +34,7 @@ public class Allaica extends javax.swing.JFrame {
 
         jRadioButton1.setText("jRadioButton1");
 
-        jButton1.setText("jButton1");
+        jButton1.setText("ACEPTAR");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -45,7 +45,7 @@ public class Allaica extends javax.swing.JFrame {
                 .addComponent(jRadioButton1)
                 .addGap(72, 72, 72)
                 .addComponent(jButton1)
-                .addContainerGap(94, Short.MAX_VALUE))
+                .addContainerGap(88, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
