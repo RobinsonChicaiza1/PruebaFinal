@@ -10,5 +10,8 @@ package lesano;
  * @author EROVER
  */
 public class lesano {
-    
+  
+    public static void main(String[] args) {
+        //hola como estas vicente...
+    }
 }
