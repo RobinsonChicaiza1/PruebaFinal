@@ -4,13 +4,10 @@
  * and open the template in the editor.
  */
 
-package Torres;
-
 /**
  *
- * @author INSPIRON
+ * @author USUARIO
  */
-public class Suma_Torres_Alex {
-  
+public class SumaAllaicaJoel {
     
 }
